@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Ashmit-OP/Lunabot"><img src="https://img.shields.io/badge/Luna%20Robot-red?&style=flat-square?&logo=github" width=600px></a></p>
+<p align="center"><a href="https://github.com/Ashmit-OP/Lunabot"><img src="https://img.shields.io/badge/𝐋𝐮𝐧𝐚%20𝐑𝐨𝐛𝐨𝐭-red?&style=flat-square?&logo=github" width=600px></a></p>
 <p align="center"><a href="https://github.com/Ashmit-OP/Lunabot"><img src="https://te.legra.ph/file/e9b2c24744b54352debd4.jpg"></a></p>
 
 #
@@ -72,7 +72,9 @@ python3 -m Telegram # start the bot.
  
 #
 
-<p align="center">Find Luna Robot In Telegram</p>
+<p align="center">𝐅𝐢𝐧𝐝 𝐋𝐮𝐧𝐚 𝐑𝐨𝐛𝐨𝐭 𝐈𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
+
+</p>
 
 <p align="center">
     <a href="https://t.me/MissLuna_bot"><img src="https://img.shields.io/badge/Best-Bot-ff69b4" /></a>

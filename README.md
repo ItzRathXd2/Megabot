@@ -77,8 +77,8 @@ python3 -m Telegram # start the bot.
 </p>
 
 <p align="center">
-    <a href="https://t.me/MissLuna_bot"><img src="https://img.shields.io/badge/Best-Bot-ff69b4" /></a>
-    <a href="https://t.me/MissLuna_bot"><img src="https://img.shields.io/badge/Telegram-Luna%20Robot-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+    <a href="https://t.me/MissLunaRobot"><img src="https://img.shields.io/badge/Best-Bot-ff69b4" /></a>
+    <a href="https://t.me/MissLunaRobot"><img src="https://img.shields.io/badge/Telegram-𝐋𝐮𝐧𝐚%20𝐑𝐨𝐛𝐨𝐭-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
 #

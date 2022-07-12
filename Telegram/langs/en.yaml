@@ -32,11 +32,11 @@ pm_help_text: |
     • /donate: Get Details about Donating which help to improve bots speeds and more.
     Click on the buttons below to get documentation about specific modules!
 
-add_bot_to_group_btn: "Add {dispatcher.bot.first_name}"
-support_chat_link_btn: "Support"
-updates_channel_link_btn: "Updates"
-source_btn: "Source Code"
-owner_btn: "Owner"
+add_bot_to_group_btn: "Add 𝙇𝙪𝙣𝙖"
+support_chat_link_btn: "𝙎𝙐𝙋𝙋𝙊𝙍𝙏"
+updates_channel_link_btn: "𝙐𝙋𝘿𝘼𝙏𝙀𝙎"
+source_btn: "𝙎𝙊𝙐𝙍𝘾𝙀 𝘾𝙊𝘿𝙀"
+owner_btn: "𝙊𝙒𝙉𝙀𝙍"
 
 admin_help: |
    • `/admins`*:* list of admins in the chat

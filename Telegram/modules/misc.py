@@ -335,8 +335,8 @@ def stats(update, context):
         update.effective_message.reply_text(status +
             "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS]) +
-            "\n\n[⍙ GitHub](https://github.com/ITZ-ZAID) | [⍚ GitLab](https://gitlab.com/ITZ-ZAID)\n\n" +
-            "╘══「 by [Zaid](https://t.me/Timesisnotwaiting) 」\n",
+            "\n\n[⍙ GitHub](https://github.com/Ashmit-OP) | [⍚ GitLab](https://gitlab.com/Ashmit-OP)\n\n" +
+            "╘══「 by [Ashmit](https://t.me/ASHMIT999) 」\n",
         parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(kb), disable_web_page_preview=True)
     except BaseException:
         update.effective_message.reply_text(
@@ -346,9 +346,9 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + "\n\n⍙ [GitHub](https://github.com/ITZ-ZAID) | ⍚ [GitLab](https://gitlab.com/ITZ-ZAID)\n\n"
+                    + "\n\n⍙ [GitHub](https://github.com/Ashmit-OP) | ⍚ [GitLab](https://gitlab.com/Ashmit-OP)\n\n"
                 )
-                + "╘══「 by [Zaid](https://t.me/Timesisnotwaiting) 」\n"
+                + "╘══「 by [Ashmit](https://t.me/ASHMIT999) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),

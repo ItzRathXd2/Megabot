@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/ItzRathXd2/Megabot"><img src="https://img.shields.io/badge/𝐌𝐞𝐠𝐚%20𝐑𝐨𝐛𝐨𝐭-red?&style=flat-square?&logo=github" width=600px></a></p>
-<p align="center"><a href="https://github.com/ItzRathXd2/Megabot"><img src="https://te.legra.ph/file/6369a5b15c473a4d1b05a.jpg"></a></p>
+<p align="center"><a href="https://github.com/ItzRathXd2/Megabot"><img src="https://telegra.ph/file/344fc2bb31b74370033e5.jpg"></a></p>
 
 #
 
